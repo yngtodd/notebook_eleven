@@ -1,7 +1,4 @@
-DSE 511 Notebook
+DSE511 Notebook
 ================
 
-Check out the content pages bundled with this sample book to get started.
-
-
-Test
+Welcome to the Data Science 511 Notebook.
