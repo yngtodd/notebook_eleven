@@ -11,7 +11,7 @@ kernelspec:
 
 (getting_started)=
 
-# Setting up Your Python Environment
+# Python Setup
 
 ## Overview
 
@@ -43,19 +43,6 @@ distribution that contains
 The best such distribution is
 [Anaconda](https://www.anaconda.com/what-is-anaconda/).
 
-Anaconda is
-
--   very popular
--   cross-platform
--   comprehensive
--   completely unrelated to the Nicki Minaj song of the same name
-
-Anaconda also comes with a great package management system to organize
-your code libraries.
-
-```{note}
-All of what follows assumes that you adopt this recommendation!
-```
 
 (install_anaconda)=
 
