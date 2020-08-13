@@ -3,9 +3,7 @@
 
 
 
-[![Build Status](https://travis-ci.com/yngtodd/notebook_eleven.svg?branch=master)](https://travis-ci.com/yngtodd/notebook_eleven)
-[![pypi](https://img.shields.io/pypi/v/notebook_eleven.svg)](https://pypi.python.org/pypi/notebook_eleven)
-
+![deploy-book](https://github.com/yngtodd/notebook_eleven/workflows/deploy-book/badge.svg)
 
 DSE511 Jupyter Book
 
