@@ -1,4 +1,5 @@
 - file: intro
+- file: setup
 - file: content
   sections:
     - file: markdown
