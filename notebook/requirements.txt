@@ -1,3 +1,4 @@
+pip==20.2.2
 jupyter-book
 matplotlib
 numpy
